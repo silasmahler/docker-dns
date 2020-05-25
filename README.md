@@ -2,7 +2,7 @@
 
 ##### Run a dns proxy in docker with wildcard host support
 
-This is intended to be used within (but not limited to) a local docker development environment, typically in combination with some type of reverse proxy that supports virtualhosts like nginx. In this configuration, `docker-dns` allows you to simplify local container access by automatically setting up easier doamins like `hello.docker`
+This is intended to be used within (but not limited to) a local docker development environment, typically in combination with some type of reverse proxy that supports virtualhosts like nginx. In this configuration, `docker-dns` allows you to simplify local container access by automatically setting up easier domains like `hello.docker`
 
 #### Quickstart:
 
